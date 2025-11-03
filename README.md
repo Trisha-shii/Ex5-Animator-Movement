@@ -26,6 +26,7 @@ Drag Animator Controller to the GameObject in the Inspector.
 ## Program:
 
 ## PlayerController:
+
 ```c#
 using UnityEngine;
 
