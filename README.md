@@ -25,9 +25,6 @@ Drag Animator Controller to the GameObject in the Inspector.
 
 ## Program:
 
-#### Developed by:M.PAVITHRA
-#### Reg no: 212222100032
-
 ## PlayerController:
 ```c#
 using UnityEngine;
